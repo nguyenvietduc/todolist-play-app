@@ -12,7 +12,8 @@ object Application extends Controller {
 
   def index = Action {
     //Ok(views.html.index("Your new application is ready."))
-    Ok("Hello world")
+    //Ok("Hello world")
+    Redirect(routes.Application.tasks)
   }
   /*
   - this method returns an Action that will handle the request
