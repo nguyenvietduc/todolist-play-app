@@ -1,4 +1,4 @@
-This is your new Play application
+Todolist Play! App
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+This is the mandatory "Hello, world" Play! application, followed by the tutorial provided by the official website. Visit the website for detailed explanation of the app. http://playframework.com
